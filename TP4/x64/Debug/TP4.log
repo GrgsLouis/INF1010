@@ -1,0 +1,16 @@
+﻿  PixelGris.cpp
+  PixelCouleur.cpp
+  PixelBN.cpp
+  Pixel.cpp
+  main.cpp
+  Image.cpp
+  GroupeImage.cpp
+c:\users\utilisateur\desktop\grgs\inf1010 c++\tp4\groupeimage.cpp(130): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  bitmap.cpp
+c:\users\utilisateur\desktop\grgs\inf1010 c++\tp4\bitmap.cpp(98): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+c:\users\utilisateur\desktop\grgs\inf1010 c++\tp4\bitmap.cpp(101): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+c:\users\utilisateur\desktop\grgs\inf1010 c++\tp4\bitmap.cpp(120): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+c:\users\utilisateur\desktop\grgs\inf1010 c++\tp4\bitmap.cpp(124): warning C4267: 'initializing': conversion from 'size_t' to 'uint32_t', possible loss of data
+  Generating Code...
+c:\users\utilisateur\desktop\grgs\inf1010 c++\tp4\pixelcouleur.cpp(85): warning C4172: returning address of local variable or temporary: nouveau
+  TP4.vcxproj -> C:\Users\Utilisateur\Desktop\Grgs\INF1010 C++\TP4\x64\Debug\TP4.exe
